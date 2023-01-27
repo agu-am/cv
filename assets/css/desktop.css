@@ -1,0 +1,34 @@
+.home-container-img {
+    width: 75%;
+}
+.home-container-text h1 {
+    font-size: 4rem;
+}
+.home-container-text h2 {
+    font-size: 2rem;
+}
+.home-container-text  {
+    font-size: 2rem;
+}
+
+.profile {
+    margin-top: 100px;
+}
+
+.study-modal img {
+    width: 0%;
+}
+.study-modal figure {
+    width: 50%;
+}
+
+.portfolio {
+   margin-bottom: 100px;
+}
+.portfolio-item {
+    width: 400px;
+    padding: 25px;
+}
+.portfolio-item a{
+    margin-top: 10px;
+}

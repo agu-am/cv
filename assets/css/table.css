@@ -1,0 +1,89 @@
+.home-container-img img {
+    width: 40%;
+}
+.home-container-icons i{
+    font-size: 6rem;
+}
+.home-container-text h1 {
+    font-size: 8.5rem;
+}
+.home-container-text h3 {
+    font-size: 5rem;
+}
+.home-container-text p {
+    font-size: 3rem;
+}
+.home-container-text button {
+    font-size: 3rem;
+    width: 300px;
+    height: 70px;
+}
+
+.profile h2 {
+    font-size: 6rem;
+    text-underline-offset: 20px;
+}
+.profile h3 {
+    font-size: 3.5rem;
+}
+.profile p {
+    font-size: 3rem;
+}
+
+.study h2 {
+    font-size: 6rem;
+}
+.study-card-container {
+    row-gap: 60px;
+}
+.study-card {
+    width: 90%;
+    height: 300px;
+}
+.study-card h2 {
+    font-size: 4rem;
+}
+.study-card i {
+    font-size: 7rem;
+}
+.study-card button {
+    font-size: 3rem;
+    height: 50px;
+}
+.study-modal h3 {
+    font-size: 4rem;
+}
+.study-modal p {
+    font-size: 3rem;
+}
+
+.portfolio h2 {
+    font-size: 6rem;
+}
+.portfolio-carrusel-container{
+    overflow-x: hidden;
+    justify-content: center
+}
+.portfolio-item {
+    height: 400px;
+    width:250px;
+}
+.portfolio-item h3 {
+    font-size: 2rem;
+    color: var(--blue);
+}
+.portfolio-img{
+    width: 100%;
+}
+.portfolio-item a{
+    font-size: 1.8rem;
+    padding: 10px 0;
+    transition: .3s;
+}
+.portfolio-item h3{
+    font-size: 3rem;
+}
+.portfolio-item a:hover{
+    transform: translateY(5px);
+}
+
