@@ -1,3 +1,41 @@
+:root{
+    --blue: #2D4059;
+    --red: #EA5455;
+    --poppins: 'Poppins', sans-serif;
+}
+
+.header-container-icons{
+    display: none;
+}
+nav {
+    top: 0;
+    border-bottom: 1px solid rgb(177, 177, 177);
+}
+.nav-mobile {
+    display: none;
+}
+.nav-desktop {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+}
+.nav-desktop ul {
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-decoration-line: none;
+}
+.nav-desktop ul li a {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--blue);
+    text-decoration: none;  
+}
+.nav-desktop ul li:link {
+    color: var(--blue);
+    text-decoration: none;
+}
 .home-container-img {
     width: 75%;
 }
