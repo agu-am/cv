@@ -14,9 +14,11 @@ html {
     font-family: 'Poppins', sans-serif;
     background-color: ghostwhite;
 }
+
 .nav-desktop{
     display: none;
 }
+
 header {
     position: fixed;
     display: grid;
