@@ -94,3 +94,7 @@ nav {
 .portfolio-item a{
     margin-top: 10px;
 }
+
+footer h2 {
+    font-size: 6rem;
+}
